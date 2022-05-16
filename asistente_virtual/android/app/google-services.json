@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635201584551",
+    "firebase_url": "https://flutter-asistente-default-rtdb.firebaseio.com",
+    "project_id": "flutter-asistente",
+    "storage_bucket": "flutter-asistente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635201584551:android:a78dea4d661810c7ac0a82",
+        "android_client_info": {
+          "package_name": "com.example.asistente_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635201584551-sd9ckv2l9u628ksfqe1i88qo1nnog11q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfLbQNQkGaB2R5XHBGb2GVd3XQ4XluYRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635201584551-sd9ckv2l9u628ksfqe1i88qo1nnog11q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635201584551-7kh0nv6nssvq3kr46rssp5rngc8lsm5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asistente.virtual"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
